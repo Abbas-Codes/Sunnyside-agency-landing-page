@@ -16,8 +16,6 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -85,4 +83,4 @@ I did'nt see any useful resources other than the ones you all know
 
 ## Acknowledgments
 
-No acknowledgements I done this alone
+No acknowledgements, I done this alone!

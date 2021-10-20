@@ -36,8 +36,6 @@ Users should be able to:
 
 ## My process
 
-Was rather easy I learn't a couple new things but not much, probably because thie challenge was rather easy.
-
 ### Built with
 
 - HTML5
